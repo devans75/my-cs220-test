@@ -3,6 +3,7 @@
 This is my cs220 test
 
 ## Level 2 Heading
+Additional Feature
 
 list of things
 * item 1
