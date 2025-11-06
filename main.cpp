@@ -5,5 +5,8 @@ int main()
 {
 	cout << "Hello world!" << endl;
 	cout << "Goodbye world!" << endl;
+
+	string s = "what";
+	cout << s << endl;
 	return 0;
 }
